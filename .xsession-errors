@@ -142,3 +142,7 @@ ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could
 ** Message: 22:13:16.592: Remote error from secret service: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.53" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.14" (uid=900 pid=2372 comm="gnome-keyring-daemon --start " label="unconfined")
 Error occurred in handler for 'vault-ipc': [Error: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.53" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.14" (uid=900 pid=2372 comm="gnome-keyring-daemon --start " label="unconfined")]
 Window manager warning: Log level 16: Visible region is null
+RuntimeError: object at 0x7ff2a1b58840 of type RenameMenu is not initialized
+RuntimeError: object at 0x7ff2a1b58840 of type RenameMenu is not initialized
+RuntimeError: object at 0x7ff2a1b58840 of type RenameMenu is not initialized
+RuntimeError: object at 0x7ff2a1b58840 of type RenameMenu is not initialized
