@@ -55,3 +55,11 @@ git remote add origin https://github.com/VMayorga117/repo.git
 git push -u origin main
 git remote remove origin
 exit
+git init
+git add .
+git commit -m "Primera commit: Scripts Iniciales"
+git branch -M main
+git remote add origin https://github.com/VMayorga117/Examen-Transversal-Programacion-y-Redes-DRY7122
+git push -u origin main
+git remote remove origin
+exit
