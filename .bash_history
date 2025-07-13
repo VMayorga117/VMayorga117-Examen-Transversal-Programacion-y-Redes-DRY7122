@@ -47,3 +47,11 @@ git branch -M main
 git remote add origin https://github.com/tu-usuario/repo.git
 git remote rm origin
 exit
+git init
+git add .
+git commit -m "Primer commit: Scripts iniciales"
+git branch -M main
+git remote add origin https://github.com/VMayorga117/repo.git
+git push -u origin main
+git remote remove origin
+exit
