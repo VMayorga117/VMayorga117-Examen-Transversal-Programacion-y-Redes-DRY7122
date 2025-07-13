@@ -1,0 +1,32 @@
+2023-05-24 01:50:22.407 [info] Started initializing default profile extensions in extensions installation folder. file:///home/devasc/.vscode/extensions
+2023-05-24 01:50:25.990 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/devasc/.vscode/extensions
+2023-05-24 01:50:27.816 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-24 01:51:00.164 [info] Getting Manifest... ms-python.python
+2023-05-24 01:51:00.195 [info] Installing extension: ms-python.python
+2023-05-24 01:51:00.951 [info] Getting Manifest... ms-python.vscode-pylance
+2023-05-24 01:51:01.280 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-05-24 01:51:07.936 [info] Extension signature is verified: ms-python.python
+2023-05-24 01:51:13.614 [info] Extracted extension to /home/devasc/.vscode/extensions/.2099b536-ee00-4bfd-9ebe-7c32c95dd7a3: ms-python.python
+2023-05-24 01:51:13.629 [info] Renamed to /home/devasc/.vscode/extensions/ms-python.python-2023.8.0
+2023-05-24 01:51:13.647 [info] Extracting extension completed. ms-python.python
+2023-05-24 01:51:13.829 [info] Marked extension as uninstalled ms-python.python-2020.6.88468
+2023-05-24 01:51:14.663 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2023-05-24 01:51:14.710 [info] Installing extension: ms-vscode-remote.remote-containers
+2023-05-24 01:51:20.457 [info] Extension signature is verified: ms-vscode-remote.remote-containers
+2023-05-24 01:51:20.530 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-05-24 01:51:21.394 [info] Extracted extension to /home/devasc/.vscode/extensions/.f5d23899-fa28-4bb3-88d8-bcdc9e40e308: ms-vscode-remote.remote-containers
+2023-05-24 01:51:21.403 [info] Renamed to /home/devasc/.vscode/extensions/ms-vscode-remote.remote-containers-0.292.0
+2023-05-24 01:51:21.417 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2023-05-24 01:51:21.446 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2023-05-24 01:51:22.156 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-05-24 01:51:22.169 [info] Installing extension: ms-azuretools.vscode-docker
+2023-05-24 01:51:26.557 [info] Extension signature is verified: ms-azuretools.vscode-docker
+2023-05-24 01:51:26.907 [info] Extracted extension to /home/devasc/.vscode/extensions/.02dfe33d-5b93-401b-b815-edd3c76c25d7: ms-azuretools.vscode-docker
+2023-05-24 01:51:26.924 [info] Renamed to /home/devasc/.vscode/extensions/ms-azuretools.vscode-docker-1.25.1
+2023-05-24 01:51:26.948 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-05-24 01:51:26.966 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-05-24 01:51:35.238 [info] Extracted extension to /home/devasc/.vscode/extensions/.babc3898-3d19-4f73-84b1-b92305a92729: ms-python.vscode-pylance
+2023-05-24 01:51:35.247 [info] Renamed to /home/devasc/.vscode/extensions/ms-python.vscode-pylance-2023.5.30
+2023-05-24 01:51:35.264 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-05-24 01:51:35.280 [info] Extension installed successfully: ms-python.python
+2023-05-24 01:51:35.280 [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,144 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US:
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting PWD=/home/devasc
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting LOGNAME=devasc
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/900/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/devasc/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/devasc
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/devasc
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting QT_DEVICE_PIXEL_RATIO=auto
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=devasc
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting PT7HOME=/opt/pt
+dbus-update-activation-environment: setting UBUNTU_MENUPROXY=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/900
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/home/devasc/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/900/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+mate-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI2: failed to authenticate
+mate-session-check-accelerated: GLES Helper exited with code 512
+** Message: 22:12:08.303: couldn't access control socket: /run/user/900/keyring/control: No such file or directory
+mate-session[1957]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Window manager warning: Log level 128: Name com.canonical.AppMenu.Registrar does not exist on the session bus
+
+
+** (process:2436): WARNING **: 22:12:10.344: could not find the desktop file for 'org.gnome.Calendar.desktop'
+VBoxClient: error: No service specified. Quitting because nothing to do!
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:10.487: Unrecognized TZID: 'Etc/UTC'
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:10.487: Unrecognized TZID: 'Etc/UTC'
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:10.545: Unrecognized TZID: 'Etc/UTC'
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(caja:2407): Gtk-WARNING **: 22:12:10.563: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(process:2522): indicator-sound-WARNING **: 22:12:10.602: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/900/pulse/dbus-socket': Could not connect: No such file or directory
+VBoxClient: error: unrecognized option '--display'
+RuntimeError: object at 0x7ff2a1b58840 of type RenameMenu is not initialized
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:13.380: Unrecognized TZID: 'Etc/UTC'
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:13.380: Unrecognized TZID: 'Etc/UTC'
+
+(process:2436): Indicator-Datetime-WARNING **: 22:12:13.381: Unrecognized TZID: 'Etc/UTC'
+INFO:root:The HUD is disabled via org.mate.hud in gsettings.
+Gtk-Message: 22:12:59.858: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:12:59.860: Failed to load module "canberra-gtk-module"
+[2775:0713/221300.550137:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.ListActivatableNames: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.54" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.DBus" member="ListActivatableNames" error name="(unset)" requested_reply="0" destination="org.freedesktop.DBus" (bus)
+[2775:0713/221301.321906:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.58" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=899 comm="/lib/systemd/systemd-logind " label="unconfined")
+[2966:0713/221301.427334:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.428997:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.429078:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2966:0713/221301.435503:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.435609:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.435691:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2966:0713/221301.435737:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2966:0713/221301.435930:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2966:0713/221301.446379:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.446571:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.446693:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2966:0713/221301.447572:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.447709:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2966:0713/221301.447769:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2966:0713/221301.447818:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2966:0713/221301.447864:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2966:0713/221301.476767:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[2991:0713/221301.685308:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.686231:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.686308:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2991:0713/221301.686582:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.686660:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.686710:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2991:0713/221301.686758:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2991:0713/221301.686822:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2991:0713/221301.691055:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.691392:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.691479:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2991:0713/221301.691890:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.692021:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2991:0713/221301.692073:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2991:0713/221301.692123:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2991:0713/221301.692171:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2991:0713/221301.697522:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[2998:0713/221301.765545:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.765701:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.765758:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2998:0713/221301.765952:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.766024:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.766157:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2998:0713/221301.766208:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2998:0713/221301.766290:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2998:0713/221301.769144:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.769277:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.769348:ERROR:gl_display.cc(767)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[2998:0713/221301.769551:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+ERR: Display.cpp:1083 (initialize): ANGLE Display::initialize error 12289: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.769624:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Could not dlopen libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[2998:0713/221301.769785:ERROR:gl_display.cc(767)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[2998:0713/221301.769863:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[2998:0713/221301.770003:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[2998:0713/221301.776023:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+** Message: 22:13:16.592: Remote error from secret service: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.53" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.14" (uid=900 pid=2372 comm="gnome-keyring-daemon --start " label="unconfined")
+Error occurred in handler for 'vault-ipc': [Error: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.53" (uid=900 pid=2775 comm="/snap/postman/337/usr/share/postman/postman --no-s" label="snap.postman.postman (enforce)") interface="org.freedesktop.Secret.Service" member="OpenSession" error name="(unset)" requested_reply="0" destination=":1.14" (uid=900 pid=2372 comm="gnome-keyring-daemon --start " label="unconfined")]
+Window manager warning: Log level 16: Visible region is null

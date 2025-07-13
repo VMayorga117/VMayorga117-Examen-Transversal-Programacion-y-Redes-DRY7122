@@ -1,0 +1,6 @@
+2025/06/24-21:08:32.053 3164 Creating DB /home/devasc/snap/postman/337/.config/Postman/Partitions/254e818e-17ad-4fad-9b17-69da7e7d649b/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2025/06/24-21:08:32.058 3164 Reusing MANIFEST /home/devasc/snap/postman/337/.config/Postman/Partitions/254e818e-17ad-4fad-9b17-69da7e7d649b/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/06/24-21:08:32.066 3163 Level-0 table #5: started
+2025/06/24-21:08:32.068 3163 Level-0 table #5: 494 bytes OK
+2025/06/24-21:08:32.071 3163 Delete type=0 #3
+2025/06/24-21:08:32.071 3163 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

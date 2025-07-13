@@ -1,0 +1,3 @@
+2023/05/24-01:49:41.930 1582 Reusing MANIFEST /home/devasc/snap/postman/204/.config/Postman/Partitions/postman_shell/Local Storage/leveldb/MANIFEST-000001
+2023/05/24-01:49:41.975 1582 Recovering log #3
+2023/05/24-01:49:41.975 1582 Reusing old log /home/devasc/snap/postman/204/.config/Postman/Partitions/postman_shell/Local Storage/leveldb/000003.log 

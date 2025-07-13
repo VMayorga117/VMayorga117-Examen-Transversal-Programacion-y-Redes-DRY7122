@@ -1,0 +1,19 @@
+2023-05-24 01:52:26.291 [info] Telemetry is disabled
+2023-05-24 01:52:26.291 [info] Experiments are disabled, only manually opted experiments are active.
+2023-05-24 01:52:26.291 [info] Test server listening.
+2023-05-24 01:52:26.291 [info] > conda info --json
+2023-05-24 01:52:26.676 [info] Found: /bin/python3 --> /bin/python3.8
+2023-05-24 01:52:26.679 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-24 01:52:26.679 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-24 01:52:26.725 [info] Found: /bin/python3.8 --> /bin/python3.8
+2023-05-24 01:52:26.961 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-24 01:52:26.961 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-24 01:52:26.961 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-05-24 01:52:26.964 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-24 01:52:26.964 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-05-24 01:52:27.090 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2023-05-24 01:52:27.091 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2023-05-24 01:52:27.162 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-24 01:52:27.217 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/interpreterInfo.py
+2023-05-24 01:52:27.735 [info] Python interpreter path: /bin/python3
+2023-05-24 01:52:29.979 [info] Starting Pylance language server.

@@ -1,0 +1,13 @@
+2025/06/24-21:08:38.163 3163 Reusing MANIFEST /home/devasc/snap/postman/337/.config/Postman/Partitions/254e818e-17ad-4fad-9b17-69da7e7d649b/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/24-21:08:38.164 3163 Recovering log #6
+2025/06/24-21:08:38.169 3163 Reusing old log /home/devasc/snap/postman/337/.config/Postman/Partitions/254e818e-17ad-4fad-9b17-69da7e7d649b/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000006.log 
+2025/06/24-21:08:46.366 317d Level-0 table #10: started
+2025/06/24-21:08:46.369 317d Level-0 table #10: 48532 bytes OK
+2025/06/24-21:08:46.370 317d Delete type=0 #6
+2025/06/24-21:08:46.371 317d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 3431 : 1
+2025/06/24-21:08:46.371 317d Compacting 1@0 + 1@1 files
+2025/06/24-21:08:46.374 317d Generated table #11@0: 1771 keys, 21077 bytes
+2025/06/24-21:08:46.374 317d Compacted 1@0 + 1@1 files => 21077 bytes
+2025/06/24-21:08:46.379 317d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/24-21:08:46.380 317d Delete type=2 #10
+2025/06/24-21:08:46.380 317d Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 3431 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
