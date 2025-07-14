@@ -150,3 +150,6 @@ Window manager warning: Log level 16: Visible region is null
 Window manager warning: Log level 16: Visible region is null
 Window manager warning: Log level 16: Visible region is null
 Warning: 'unity-launch' is not in the list of known options, but still passed to Electron/Chromium.
+
+(process:2436): Indicator-Datetime-WARNING **: 00:00:00.208: Unrecognized TZID: 'Etc/UTC'
+Window manager warning: Log level 16: Visible region is null

@@ -71,3 +71,28 @@ git remote add origin https://github.com/VMayorga117/repo.git
 git push -u origin main
 git remote remove origin
 exit
+git add integrantes.py vlan_check.py
+git commit -m "Agregados scripts iniciales"
+git push origin main
+git clone https://github.com/VMayorga117/Examen-Transversal-Programacion-y-Redes-DRY7122
+git push origin main
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/VMayorga117/Examen-Transversal-Programacion-y-Redes-DRY7122
+git push -u origin main
+git remote add origin https://github.com/VMayorga117/Examen-Transversal-Programacion-y-Redes-DRY7122.git
+/bin/python3
+echo "# VMayorga117-Examen-Transversal-Programacion-y-Redes-DRY7122" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VMayorga117/VMayorga117-Examen-Transversal-Programacion-y-Redes-DRY7122.git
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/VMayorga117/VMayorga117-Examen-Transversal-Programacion-y-Redes-DRY7122.git
+git branch -M main
+git push -u origin main
+git remote remove origin
+exit

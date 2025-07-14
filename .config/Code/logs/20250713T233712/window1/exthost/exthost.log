@@ -11,3 +11,6 @@
 2025-07-13 23:37:33.783 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
 2025-07-13 23:37:34.505 [info] Eager extensions activated
 2025-07-13 23:40:50.099 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-07-14 00:01:03.447 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-07-14 00:06:24.421 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-14 00:06:24.508 [info] Extension host with pid 14386 exiting with code 0
