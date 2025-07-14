@@ -1,0 +1,9 @@
+2025-07-13 23:39:26.090 [error] #13: https://www.vscode-unpkg.net/_gallery/ms-azuretools/vscode-containers/latest - error GET Canceled
+2025-07-13 23:39:26.091 [error] #14: https://www.vscode-unpkg.net/_gallery/ms-kubernetes-tools/vscode-kubernetes-tools/latest - error GET Canceled
+2025-07-13 23:39:26.091 [error] #15: https://www.vscode-unpkg.net/_gallery/eamodio/gitlens/latest - error GET Canceled
+2025-07-13 23:39:26.091 [error] #16: https://www.vscode-unpkg.net/_gallery/vscodevim/vim/latest - error GET Canceled
+2025-07-13 23:39:26.116 [error] #17: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-07-13 23:39:36.070 [error] #10: https://www.vscode-unpkg.net/_gallery/ms-azuretools/vscode-containers/latest - error GET Fetch timeout: 10000ms
+2025-07-13 23:39:36.071 [error] #11: https://www.vscode-unpkg.net/_gallery/ms-vscode-remote/remote-containers/latest - error GET Fetch timeout: 10000ms
+2025-07-13 23:39:36.073 [error] #12: https://www.vscode-unpkg.net/_gallery/ms-kubernetes-tools/vscode-kubernetes-tools/latest - error GET Fetch timeout: 10000ms
+2025-07-13 23:41:56.504 [error] #22: https://ms-azuretools.gallery.vsassets.io/_apis/public/gallery/publisher/ms-azuretools/extension/vscode-containers/2.0.3/assetbyname/Microsoft.VisualStudio.Services.Content.Details - error GET Fetch timeout: 10000ms

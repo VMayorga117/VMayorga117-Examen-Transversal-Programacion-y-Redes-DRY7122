@@ -1,0 +1,30 @@
+2025-07-13 23:37:15.084 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-13 23:37:15.100 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-13 23:37:15.101 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-13 23:37:16.234 [info] Started local extension host with pid 14386.
+2025-07-13 23:37:17.965 [error] Extension 'ms-python.python' wants API proposal 'envShellEvent' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-13 23:37:17.966 [error] Extension 'ms-python.python' wants API proposal 'envCollectionWorkspace' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-13 23:37:21.164 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-13 23:37:33.259 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-13 23:37:35.774 [info] Auto updating outdated extensions. ms-azuretools.vscode-docker, ms-python.python, ms-python.vscode-pylance, ms-vscode-remote.remote-containers
+2025-07-13 23:37:36.269 [info] Auto updating outdated extensions. ms-azuretools.vscode-docker, ms-python.python, ms-python.vscode-pylance, ms-vscode-remote.remote-containers
+2025-07-13 23:37:36.673 [warning] Creation of workbench contribution 'workbench.contrib.dynamicWindowConfiguration' took 130ms.
+2025-07-13 23:37:37.526 [info] [perf] Render performance baseline is 232ms
+2025-07-13 23:39:26.092 [error] Error while getting the latest version for the extension ms-azuretools.vscode-containers. Canceled
+2025-07-13 23:39:26.101 [error] Error while getting the latest version for the extension ms-kubernetes-tools.vscode-kubernetes-tools. Canceled
+2025-07-13 23:39:26.105 [error] Error while getting the latest version for the extension eamodio.gitlens. Canceled
+2025-07-13 23:39:26.108 [error] Error while getting the latest version for the extension vscodevim.vim. Canceled
+2025-07-13 23:39:36.070 [error] Error while getting the latest version for the extension ms-azuretools.vscode-containers. Fetch timeout: 10000ms
+2025-07-13 23:39:36.072 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-containers. Fetch timeout: 10000ms
+2025-07-13 23:39:36.074 [error] Error while getting the latest version for the extension ms-kubernetes-tools.vscode-kubernetes-tools. Fetch timeout: 10000ms
+2025-07-13 23:39:37.033 [info] Auto updating outdated extensions. ms-azuretools.vscode-docker, ms-python.python, ms-python.vscode-pylance, ms-vscode-remote.remote-containers
+2025-07-13 23:42:09.910 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.deprecatedMaintainer'. This property is already registered.
+2025-07-13 23:42:09.912 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.emptyContinuationLine'. This property is already registered.
+2025-07-13 23:42:09.914 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.directiveCasing'. This property is already registered.
+2025-07-13 23:42:09.915 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionCasing'. This property is already registered.
+2025-07-13 23:42:09.916 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionCmdMultiple'. This property is already registered.
+2025-07-13 23:42:09.922 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionEntrypointMultiple'. This property is already registered.
+2025-07-13 23:42:09.923 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionHealthcheckMultiple'. This property is already registered.
+2025-07-13 23:42:09.924 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionJSONInSingleQuotes'. This property is already registered.
+2025-07-13 23:42:09.925 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.diagnostics.instructionWorkdirRelative'. This property is already registered.
+2025-07-13 23:42:09.926 [warning] [ms-azuretools.vscode-containers]: Cannot register 'docker.languageserver.formatter.ignoreMultilineInstructions'. This property is already registered.

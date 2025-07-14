@@ -1,0 +1,12 @@
+2025-07-13 23:37:21.545 [info] Telemetry is disabled
+2025-07-13 23:37:21.545 [info] Experiments are disabled, only manually opted experiments are active.
+2025-07-13 23:37:21.846 [info] Test server listening.
+2025-07-13 23:37:21.847 [info] Python interpreter path: /bin/python3
+2025-07-13 23:37:36.951 [info] Starting Pylance language server.
+2025-07-13 23:39:53.444 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/normalizeSelection.py
+2025-07-13 23:39:53.734 [info] Send text to terminal: /bin/python3
+2025-07-13 23:39:54.734 [info] Send text to terminal: for integrante in itegrantes:
+
+
+2025-07-13 23:40:56.091 [info] DAP Server launched with command: /bin/python3 /home/devasc/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter
+2025-07-13 23:45:05.079 [info] DAP Server launched with command: /bin/python3 /home/devasc/.vscode/extensions/ms-python.python-2023.8.0/pythonFiles/lib/python/debugpy/adapter

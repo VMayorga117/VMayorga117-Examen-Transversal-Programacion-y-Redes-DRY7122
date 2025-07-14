@@ -1,0 +1,9 @@
+2025-07-13 23:37:19.175 [info] Marked extension as removed ms-python.python-2020.6.88468
+2025-07-13 23:39:28.026 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-07-13 23:39:28.989 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/devasc/.vscode/extensions/extensions.json","path":"/home/devasc/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.0","date":"2025-07-09T22:10:34.600Z"}}
+2025-07-13 23:39:39.225 [error] Error while getting the latest version for the extension vscode.docker. Request timeout after 10000ms
+2025-07-13 23:39:39.231 [error] Error while getting the latest version for the extension vscode.yaml. Request timeout after 10000ms
+2025-07-13 23:42:09.370 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 126467ms.
+2025-07-13 23:42:09.745 [info] Extracted extension to file:///home/devasc/.vscode/extensions/ms-azuretools.vscode-containers-2.0.3: ms-azuretools.vscode-containers
+2025-07-13 23:42:09.769 [info] Renamed to /home/devasc/.vscode/extensions/ms-azuretools.vscode-containers-2.0.3
+2025-07-13 23:42:09.823 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/devasc/.vscode/extensions/extensions.json
